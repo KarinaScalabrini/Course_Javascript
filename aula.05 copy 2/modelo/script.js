@@ -21,4 +21,3 @@ function carregar() {
         img.src = 'noitecerto.png'
         document.body.style.background = "#515154"
     }
-}
